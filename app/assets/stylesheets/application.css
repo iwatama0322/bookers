@@ -32,10 +32,6 @@ h1 {
     font-weight: bold;
 }
 
-strong {
-    font-weight: bold;
-}
-
 p, ol, ul, td {
     font-family: verdana, arial, helvetica, sans-serif;
     font-size: 13px;
@@ -43,3 +39,8 @@ p, ol, ul, td {
     margin: 33px;
 }
 
+td {
+    padding-bottom: 7px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
